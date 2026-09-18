@@ -1,0 +1,10 @@
+langchain-ollama
+
+langchain-groq
+
+certifi
+pyOpenSSL
+python-certifi-win32
+
+
+python-dotenv
