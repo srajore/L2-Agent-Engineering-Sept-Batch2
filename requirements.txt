@@ -8,3 +8,5 @@ python-certifi-win32
 
 
 python-dotenv
+
+langgraph
